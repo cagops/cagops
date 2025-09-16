@@ -4,13 +4,39 @@
 
 <h2 align="center">DevOps Engineer | Cloud & Kubernetes Enthusiast | AI Explorer</h2>
 
+<h4 align="center">DevOps engineer turning “it works on my laptop” into calm systems where people work together as one across Kubernetes, CI/CD, IaC in the cloud (Azure, AWS) and on-premise.</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,terraform,ansible,python,vuejs,html,css,nginx,git,gitlab,github" />
 </p>
 
-<h4 align="center">DevOps engineer turning “it works on my laptop” into calm systems where people work together as one across Kubernetes, CI/CD, IaC in the cloud (Azure, AWS) and on-premise.</h4>
+<br>
 
-<hr>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true&theme=dark&border_color=00e082&icon_color=00e082&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true&border_color=00e082&icon_color=00e082&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cagops&layout=donut&theme=dark&border_color=00e082&icon_color=00e082"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cagops&layout=donut&border_color=00e082&icon_color=00e082"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>
