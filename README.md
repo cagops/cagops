@@ -22,7 +22,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true&border_color=00e082&icon_color=00e082&rank_icon=github"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true" />
   </picture>
   
   <picture>
@@ -34,7 +34,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cagops&layout=donut&border_color=00e082&icon_color=00e082"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=cagops&show_icons=true" />
   </picture>
 </div>
 
